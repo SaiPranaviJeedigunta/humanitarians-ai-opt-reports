@@ -2,3 +2,8 @@
 Sai-Pranavi-Jeedigunta-addams_onboarding_profile.docx
 Sai_Pranavi_Jeedigunta_HaiInc_Agreement.docx
 Sai_Pranavi_Jeedigunta_HaiInc_Agreement.pdf
+*.mp4
+*.mp3
+*.m4a
+__pycache__/
+*.pyc
